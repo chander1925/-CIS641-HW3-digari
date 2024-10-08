@@ -9,4 +9,4 @@ Assignment HW3
 
 ### I have surface-level experience with different programming languages such as Python, PHP, and JavaScript, which allow me to automate various tasks efficiently.
 
-#### ![Favorite Meme](https://ph.pinterest.com/pin/585890232791959720/)
+
