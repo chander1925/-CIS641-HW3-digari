@@ -1,6 +1,6 @@
 # -CIS641-HW3-digari
 Assignment HW3
-
+# Chander Singh Digari
 - I love experimenting with different programming languages
 - Swimming is my hobby
 - Researching on trending AI solutions
